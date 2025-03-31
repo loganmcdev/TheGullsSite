@@ -4,16 +4,16 @@ button.addEventListener("click", function() {
 var score = 0;
 var questions = [
     {
-        prompt: "Q-Do seagulls mate by season or by life?\n(a)life\n(b)season",
-        answer: "a"
+        prompt: "Q-Do seagulls mate by season or by life?\n(A)life\n(B)season",
+        answer: "A"
     },
     {
-        prompt:"Do male or female seagulls have a larger bill?\n(a)Male\n(b)female",
-        answer: "a"
+        prompt:"Do male or female seagulls have a larger bill?\n(A)Male\n(B)female",
+        answer: "A"
     },
     {
-        prompt:"Do female seagulls have larger or smaller bodies than males?\n(a)larger\n(b)smaller\n",
-        answer: "b"
+        prompt:"Do female seagulls have larger or smaller bodies than males?\n(A)larger\n(B)smaller\n",
+        answer: "B"
     },
     {
         prompt:"What color are juvenile seagulls?\n(a)all white\n(b)black and white\n(c)brown and grey",
