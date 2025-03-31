@@ -16,32 +16,32 @@ var questions = [
         answer: "B"
     },
     {
-        prompt:"What color are juvenile seagulls?\n(a)all white\n(b)black and white\n(c)brown and grey",
-        answer: "c"
+        prompt:"What color are juvenile seagulls?\n(A)all white\n(B)black and white\n(C)brown and grey",
+        answer: "C"
     },
     {
-        prompt:"Are seagulls most active during the day or at night?\n(a)Nighttime\n(b)Daytime\n",
-        answer: "b"
+        prompt:"Are seagulls most active during the day or at night?\n(A)Nighttime\n(B)Daytime\n",
+        answer: "B"
     },
     {
-        prompt:"how long is a seagulls common lifespan?\n(a)5-10 years\n(b)10-20 years\n(c)30-40 years",
-        answer: "b"
+        prompt:"how long is a seagulls common lifespan?\n(A)5-10 years\n(B)10-20 years\n(C)30-40 years",
+        answer: "B"
     },
     {
-        prompt:"Can seagulls swim?\n(a)yes\n(b)no\n",
-        answer: "a"
+        prompt:"Can seagulls swim?\n(A)yes\n(B)no\n",
+        answer: "A"
     },
     {
-        prompt:"do male or female gulls have flatter crowns on their heads?\n(a)male\n(b)female\n",
-        answer: "a"
+        prompt:"do male or female gulls have flatter crowns on their heads?\n(A)male\n(B)female\n",
+        answer: "A"
     },
     {
-        prompt:"Are seagulls intelligent?\n(a)no\n(b)yes\n",
-        answer: "b"
+        prompt:"Are seagulls intelligent?\n(A)no\n(B)yes\n",
+        answer: "B"
     },
     {
-        prompt:"Can seagulls drink saltwater?\n(a)no\n(b)yes\n",
-        answer: "b"
+        prompt:"Can seagulls drink saltwater?\n(A)no\n(B)yes\n",
+        answer: "B"
     },
 
 ]
